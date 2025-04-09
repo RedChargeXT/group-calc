@@ -9,3 +9,4 @@ def exponent(a, b): return a ** b
 print(exponent(2, 3))
 print(multiply(2, 3))
 print(add(2, 3))
+print(subtract(4, 2))
